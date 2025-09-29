@@ -1,6 +1,0 @@
-******** FACTURA ********
-Cliente: Demo
-Producto: Videojuego
-Precio: 49.99 €
-IVA (21%): 10.50 €
-TOTAL: 60.49 €
