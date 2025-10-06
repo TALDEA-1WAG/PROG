@@ -1,7 +1,9 @@
-package erronka;
+package erronka.zerbitzuak;
 
 import java.io.*;
 import java.util.*;
+
+import erronka.aplikazioa.GameStopApp;
 
 public class MenuEmpleados {
 	

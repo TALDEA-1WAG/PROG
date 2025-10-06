@@ -1,4 +1,8 @@
-package erronka;
+package erronka.aplikazioa;
+
+import erronka.baliabideak.Archivos;
+import erronka.zerbitzuak.MenuClientes;
+import erronka.zerbitzuak.MenuEmpleados;
 
 public class menuPrincipal {
 	

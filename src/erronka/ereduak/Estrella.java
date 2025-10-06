@@ -1,4 +1,4 @@
-package erronka;
+package erronka.ereduak;
 
 
 public class Estrella {

@@ -1,6 +1,9 @@
-package erronka;
+package erronka.aplikazioa;
 
 import java.util.Scanner;
+
+import erronka.ereduak.Estrella;
+import erronka.zerbitzuak.Login;
 
 public class GameStopApp {
     public static Scanner sc = new Scanner(System.in);

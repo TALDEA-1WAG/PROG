@@ -1,8 +1,11 @@
-package erronka;
+package erronka.zerbitzuak;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
+
+import erronka.aplikazioa.GameStopApp;
+import erronka.ereduak.Factura;
 
 public class MenuClientes {
 	private void limpiarPantalla() {

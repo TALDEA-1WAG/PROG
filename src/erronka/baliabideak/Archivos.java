@@ -1,10 +1,12 @@
-package erronka;
+package erronka.baliabideak;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.Random;
 import java.util.Scanner;
+
+import erronka.aplikazioa.GameStopApp;
 
 public class Archivos {
 	private void limpiarPantalla() {

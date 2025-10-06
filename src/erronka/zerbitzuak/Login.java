@@ -1,4 +1,6 @@
-package erronka;
+package erronka.zerbitzuak;
+
+import erronka.aplikazioa.GameStopApp;
 
 public class Login {
     private static final String USER = "Borja";

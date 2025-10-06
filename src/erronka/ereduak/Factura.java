@@ -1,5 +1,5 @@
 
-package erronka;
+package erronka.ereduak;
 
 
 import java.io.*;
