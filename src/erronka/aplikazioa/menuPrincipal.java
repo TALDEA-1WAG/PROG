@@ -14,7 +14,7 @@ public class menuPrincipal {
             System.out.println("2. Bezeroak");
             System.out.println("3. Fitxategiak");
             System.out.println("4. Saioa itxi");
-            System.out.print("Aukeratu aukera: ");
+            System.out.print("Aukeratu: ");
 
             int opcion;
             try {

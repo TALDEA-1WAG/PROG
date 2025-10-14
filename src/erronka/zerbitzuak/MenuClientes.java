@@ -17,10 +17,10 @@ public class MenuClientes {
     public void mostrar() {
    	 limpiarPantalla();
         System.out.println("\n--- CLIENTES ---");
-        System.out.println("1. Consultar contactos");
-        System.out.println("2. Generar factura");
+        System.out.println("1.  Kontaktuak kontsultatu");
+        System.out.println("2. Faktura sortu");
         System.out.println("3. Atzera joan");
-        System.out.print("Seleccione: ");
+        System.out.print("Aukeratu: ");
         int op = Integer.parseInt(GameStopApp.sc.nextLine());
 
         if (op == 1) {
