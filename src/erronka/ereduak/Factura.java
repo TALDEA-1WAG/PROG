@@ -77,5 +77,7 @@ public class Factura {
 
 	    System.out.println("\n--- FAKTURA ---\n");
 	    System.out.println(faktura);
+	    
+	    sc.close(); 
 	}
 }

@@ -26,9 +26,9 @@ public class Login {
                 (u.equals(USER1) && p.equals(PASS1)) ||
                 (u.equals(USER2) && p.equals(PASS2))) {
                 autenticado = true;
-                System.out.println("✅ Ongi etorri, " + u + "!\n");
+                System.out.println("Ongi etorri, " + u + "!\n");
             } else {
-                System.out.println("❌ Erabiltzaile edo pasahitz okerra. Saiatu berriro.\n");
+                System.out.println("Erabiltzaile edo pasahitz okerra. Saiatu berriro.\n");
             }
         } while (!autenticado);
     }

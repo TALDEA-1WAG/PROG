@@ -54,6 +54,7 @@ public class Archivos {
         
         
         System.out.println();
+        sc.close();
 
     }
 
